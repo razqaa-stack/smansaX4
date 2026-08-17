@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "kelas": "X.4",
+    "jumlah_siswa": 36,
+    "updated": "2026-08-17T08:16:36.638Z"
+  },
+  "siswa": [
+    {
+      "id": 1786954549080,
+      "nama": "AGUS RAHMA YURIFA",
+      "nohp": "0895328966996",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549081,
+      "nama": "ANDINI SHAULIKA ARFI",
+      "nohp": "082387437366",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549082,
+      "nama": "AQUEENY SABILLA FITRI",
+      "nohp": "082268050745",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549083,
+      "nama": "ARDILA CETTA RANIAH",
+      "nohp": "081374471476",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549084,
+      "nama": "ARIIQ ASYIQOR ABROR",
+      "nohp": "085338942483",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549085,
+      "nama": "ASYIFA DZAKIRAH",
+      "nohp": "-",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549086,
+      "nama": "AUREL MAHARANI",
+      "nohp": "081363171404",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549087,
+      "nama": "CHERRY NADIYA ANNISA",
+      "nohp": "081334964449",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549088,
+      "nama": "DAFA ALMER ZAKI",
+      "nohp": "083186083431",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549089,
+      "nama": "DZAKHIRAH HADISTY",
+      "nohp": "-",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549090,
+      "nama": "EVAN DZAKY DZULHANNAN",
+      "nohp": "082311579157",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549091,
+      "nama": "FITRI RAMADHANI",
+      "nohp": "081267640190",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549092,
+      "nama": "GAZEL PRIBAWA RAMADHAN",
+      "nohp": "082172246648",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549093,
+      "nama": "GHANI ABDILLAH HERMADI",
+      "nohp": "-",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549094,
+      "nama": "HAMDI NOVRI HARJI",
+      "nohp": "082283083963",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549095,
+      "nama": "HERTIAN MUHAMMAD HAMZAH",
+      "nohp": "081270736044",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549096,
+      "nama": "IKHSAN MULYADI",
+      "nohp": "083813041122",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549097,
+      "nama": "ILHAM DWI PATRA",
+      "nohp": "085376986601",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549098,
+      "nama": "INTAN NADILA",
+      "nohp": "082383470242",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549099,
+      "nama": "KEISHA CANDRA",
+      "nohp": "082170221780",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549100,
+      "nama": "LATYFAH JULIA PURNAMA",
+      "nohp": "082264473122",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549101,
+      "nama": "M.LUTHFI FADRIANDI",
+      "nohp": "081363286668",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549102,
+      "nama": "M.RIFANGGA ILHAM",
+      "nohp": "081365461870",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549103,
+      "nama": "MARSHA NADIFA",
+      "nohp": "-",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549104,
+      "nama": "MOCHAMAD AKRAM HANIFAH",
+      "nohp": "081374190576",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549105,
+      "nama": "MUHAMMAD LUTHFI RAMADAN.S",
+      "nohp": "083167748944",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549106,
+      "nama": "MUHAMMAD ZHAKY AFFANDI",
+      "nohp": "0853644880006",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549107,
+      "nama": "REINARDUS PRIAFIFDES SIMBOLON",
+      "nohp": "081266109572",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549108,
+      "nama": "RIMIDAYO CAHAYA AQILA",
+      "nohp": "082385338646",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549109,
+      "nama": "SIDDYQ AL BUKHORY",
+      "nohp": "082283971491",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549110,
+      "nama": "SUCI ROLINNA",
+      "nohp": "085376224843",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549111,
+      "nama": "VALLEA ATHAILA MARISDA",
+      "nohp": "-",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549112,
+      "nama": "YUGHI MULYA PUTRA",
+      "nohp": "082286760766",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549113,
+      "nama": "ZAMZAMI ALDIANO",
+      "nohp": "081267251347",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549114,
+      "nama": "ZARLY ZILVA ZIVILLIA KOTO",
+      "nohp": "081219877604",
+      "kelas": "X.4"
+    },
+    {
+      "id": 1786954549115,
+      "nama": "ZHAVINA REISYA APRILYANA",
+      "nohp": "085645215856",
+      "kelas": "X.4"
+    }
+  ]
+}
